@@ -6,7 +6,7 @@
   "author": "Natalia Szymiczek <nat.szymiczek@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "electron": "5.0.6"
+    "electron": "17.4.9"
   },
   "scripts": {
     "start": "electron main.js"
